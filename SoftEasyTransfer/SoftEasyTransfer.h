@@ -42,7 +42,7 @@ GNU General Public License for more details.
 #include <math.h>
 #include <stdio.h>
 #include <stdint.h>
-#include <avr/io.h>
+//#include <avr/io.h>
 
 class SoftEasyTransfer {
 public:
